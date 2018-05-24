@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Ninj\IocExample\bin\Debug\IocExample.exe.config
+C:\Users\student\Desktop\Ninj\IocExample\bin\Debug\IocExample.exe
+C:\Users\student\Desktop\Ninj\IocExample\bin\Debug\IocExample.pdb
+C:\Users\student\Desktop\Ninj\IocExample\bin\Debug\Ninject.dll
+C:\Users\student\Desktop\Ninj\IocExample\bin\Debug\Ninject.xml
+C:\Users\student\Desktop\Ninj\IocExample\obj\Debug\IocExample.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Ninj\IocExample\obj\Debug\IocExample.exe
+C:\Users\student\Desktop\Ninj\IocExample\obj\Debug\IocExample.pdb
+C:\Users\Vlada\Downloads\Telegram Desktop\Ninj\Ninj\IocExample\bin\Debug\IocExample.exe.config
+C:\Users\Vlada\Downloads\Telegram Desktop\Ninj\Ninj\IocExample\obj\Debug\IocExample.exe
+C:\Users\Vlada\Downloads\Telegram Desktop\Ninj\Ninj\IocExample\obj\Debug\IocExample.pdb
